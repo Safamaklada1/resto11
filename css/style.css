@@ -1,0 +1,111 @@
+body{
+	
+}
+.mainMenu{
+	margin-right:100px;
+	margin-left:100px;
+}
+#imgMain{
+	float:left;
+	display: inline-block;
+}
+body header ul{
+	float:right;
+	display:inline-block;
+	list-style:none;
+	
+}
+body header ul li{
+	float:left;
+	padding:0px 15px 0px 15px;
+	
+}
+body header ul li a{
+	color:black;
+	text-decoration: none;
+}
+#imgBig{
+	
+}
+.clear-box{
+	clear:both;
+	overflow: hidden;
+}
+.menu{
+	display:inline;
+	/*margin-right:100px;*/
+	/*margin-left: 100px;*/
+}
+#imgMenu{
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#menuLeft {
+	display: inline-block;
+	list-style: none;
+	float: left;
+	width: 40%;
+}
+#menuright {
+	display: inline-block;
+	list-style: none;
+	float: right;
+	width: 40%;
+}
+
+b{
+	font-size: 200%;
+}
+body nav ul li{
+	
+
+}
+#select{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+.featuredDishes{
+	display: inline-block;
+	float: left;
+	
+}
+#featuredDishes{
+	padding-left:60px;
+}
+body div ul li{
+	display:inline-block;
+	list-style:none;
+	float: left;
+	padding: 0px 30px;
+}
+#theGalleryImg li{
+	padding:0;
+	float: left;
+	display: inline-block;
+}
+nav{
+	padding-left: 40px;
+}
+footer{
+	margin-top:50px;
+	width:100%;
+	display:inline-block;
+	height:35%;
+	background: black;
+}
+footer ul li{
+	list-style: none;
+	float:left;
+	padding:15px;
+	color: white;
+}
+footer ul li li a{
+	color:white;
+	text-decoration: none;
+}
+footer nav ul li ul li{
+	float:none;
+}
